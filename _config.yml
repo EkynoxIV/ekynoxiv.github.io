@@ -3,14 +3,3 @@ title: Viens jouer Samy.
 description: <li class="masthead__menu-item">
           <a href="https://maps.app.goo.gl/32mis5q9NmU3tbYn6">Appuie ici mon loup</a>
         </li>
-<script defer src="https://cloud.umami.is/script.js" data-website-id="d2eaf14a-2df2-4045-b0c1-a6d3faa9d68c"></script>
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "978703ae9f964f33a5bb374be2857ad1"}'></script><!-- End Cloudflare Web Analytics -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MEE7E089V1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-MEE7E089V1');
-</script>
