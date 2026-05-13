@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Viens jouer Samy.
-description: https://maps.app.goo.gl/32mis5q9NmU3tbYn6
+description: <li class="masthead__menu-item">
+          <a href="https://maps.app.goo.gl/32mis5q9NmU3tbYn6">Appuie ici mon loup</a>
+        </li>
